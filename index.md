@@ -4,7 +4,9 @@ Contact Info:
 +79656910480
 st. Usacheva, 3 building 1, Moscow, 119048
 
-[Download](https://aliexpress.ru/item/4001214036742.html?sku_id=10000015325960375&spm=a2g2w.productlist.0.0.73a56eecE3demE) application
+This Application for Smart mini P8 HD Real DLP.
+
+[Download](https://github.com/coselventki/projectormobile/files/7492897/projectormobilepc.zip) application
 
 ![1](https://user-images.githubusercontent.com/91066877/140657883-bcac66bb-8952-446d-8f85-5fa891be49ca.PNG)
 
