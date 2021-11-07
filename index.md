@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Projector Mobile
 
-You can use the [editor on GitHub](https://github.com/coselventki/projectormobile/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Contact Info:
++79656910480
+st. Usacheva, 3 building 1, Moscow, 119048
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Download](https://aliexpress.ru/item/4001214036742.html?sku_id=10000015325960375&spm=a2g2w.productlist.0.0.73a56eecE3demE) application
 
-### Markdown
+![1](https://user-images.githubusercontent.com/91066877/140657883-bcac66bb-8952-446d-8f85-5fa891be49ca.PNG)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![2](https://user-images.githubusercontent.com/91066877/140657889-d9ada78d-1b22-4622-bdc1-ae618a8244d5.PNG)
 
-```markdown
-Syntax highlighted code block
+![3](https://user-images.githubusercontent.com/91066877/140657893-c627b62b-09b1-448a-982d-3ad8ad3175bb.PNG)
 
-# Header 1
-## Header 2
-### Header 3
+![4](https://user-images.githubusercontent.com/91066877/140657930-e2eeb97a-0104-4af5-9c2c-e23f30ef6bed.PNG)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coselventki/projectormobile/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![5](https://user-images.githubusercontent.com/91066877/140657933-003ff3b3-448f-43ed-b754-6125a2bfbea6.PNG)
